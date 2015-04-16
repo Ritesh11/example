@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="com.perfectomobile.eclipse.MOBILECLOUD_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/Mobilyte/JAR files for QA/java-client-2.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/Mobilyte/JAR files for QA/google-gson-2.2.4/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="G:/Mobilyte/JAR files for QA/selenium-java-2.45.0/selenium-2.45.0/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mobilyte/JAR files for QA/poi-3.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
